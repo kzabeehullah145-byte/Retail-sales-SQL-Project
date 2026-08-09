@@ -5,7 +5,7 @@ SQL Retail Sales Analysis Project(IN PROGRESS)
 This project demonstrates my SQL skills by analyzing a retail sales dataset using PostgreSQL. The project includes business-focused SQL queries covering sales performance, customer analysis, product insights, store performance, and time-based trends.
 
 ### Progress
-- ✅ 35 of 75 SQL questions completed
+- ✅ 55 of 75 SQL questions completed
 - 🔄 Project is actively being updated
 
 ### Tools Used
